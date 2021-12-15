@@ -12,4 +12,16 @@ It does not work with Google Colab, so use Jupiter Notebook or just something el
 ---
 ## Results
 
+The results completely depend on the pointcloud you have. The one I had tested on had a mirror reflection and bad light spot. Somewhere it was chunky, but in general it worked good with the less noisy parts.
 
+Pointcloud I had:
+![Cells](https://github.com/xufana/RANSAC/blob/master/photo_2020-06-27_22-08-23.jpg)
+
+Meshes I had got before fine-tuning and piece combining
+![Meshes](https://github.com/xufana/RANSAC/blob/master/photo_2020-06-27_22-10-32.jpg)
+
+After the piece combining. Orange mesh is a celling, green one is a floor.
+![Floor and Celling](https://github.com/xufana/RANSAC/blob/master/photo_2020-06-28_22-28-38.jpg)
+
+One more 3D picture of the mesh.
+![???](https://github.com/xufana/RANSAC/blob/master/photo_2020-06-28_22-29-53.jpg)
